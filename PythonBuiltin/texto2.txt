@@ -1,0 +1,3 @@
+When I click on "Restore Default Layout", nothing happens and I have to manually re-position them every time, which is obviously very tedious.
+I have clicked "Store Current layout as Default".
+Am I doing something wrong?
